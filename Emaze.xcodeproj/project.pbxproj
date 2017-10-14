@@ -433,7 +433,7 @@
 				INFOPLIST_FILE = Emaze/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = online.tirthPatel.Emaze;
+				PRODUCT_BUNDLE_IDENTIFIER = online.tirthPatel;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -447,7 +447,7 @@
 				INFOPLIST_FILE = Emaze/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = online.tirthPatel.Emaze;
+				PRODUCT_BUNDLE_IDENTIFIER = online.tirthPatel;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -530,6 +530,7 @@
 				4C03DA0D1F907E720042ED5D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4C03DA0E1F907E720042ED5D /* Build configuration list for PBXNativeTarget "EmazeTests" */ = {
 			isa = XCConfigurationList;
@@ -538,6 +539,7 @@
 				4C03DA101F907E720042ED5D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4C03DA111F907E720042ED5D /* Build configuration list for PBXNativeTarget "EmazeUITests" */ = {
 			isa = XCConfigurationList;
@@ -546,6 +548,7 @@
 				4C03DA131F907E720042ED5D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
